@@ -1,4 +1,4 @@
-# Advanced-LLM-Tuning-and-Evaluation-in-Storytelling-Applications
+# Advanced LLM Tuning and Evaluation in Storytelling
 
 
 - **Fine-Tuned LLMs for Creative Storytelling:** Successfully fine-tuned and optimized Large Language Model Bloom for generative storytelling, ensuring enhanced narrative coherence and linguistic creativity.
